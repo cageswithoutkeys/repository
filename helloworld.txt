@@ -1,2 +1,4 @@
 #README
 HELLO WORLD
+my name is ela 
+octocat is cute 
